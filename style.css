@@ -1,0 +1,30 @@
+
+body{
+    background-color: blue;
+}
+    header{
+    background-color: black;
+    border: 2pxsolid blue;
+    height: 500px;
+    color: white;
+    text-align: center;
+}
+#fotogabriel{
+    height: 400px;
+    width: 400px;
+    margin-left: 1200px;
+}
+h2{
+    color: black;
+
+}
+div{
+    color: purple;
+    background-color: gray;
+    height: 400px;
+    border: gray;
+  
+}
+a{
+    margin: 20px;
+}
